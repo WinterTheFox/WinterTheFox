@@ -1,8 +1,8 @@
 # Hi, I'm Winter Fox
 
-I love ![Mechatronics](https://img.shields.io/badge/⚙️%20Mechatronics-%23cba6f7?style=for-the-badge&logoColor=white&labelColor=1e1e2e)
-![Robotics](https://img.shields.io/badge/🤖%20Robotics-%23cba6f7?style=for-the-badge&logoColor=white&labelColor=1e1e2e)
-![Open Source](https://img.shields.io/badge/🌍%20Open%20Source-%23cba6f7?style=for-the-badge&logoColor=white&labelColor=1e1e2e)
+I love ![Mechatronics](https://img.shields.io/badge/%20Mechatronics-%23cba6f7?style=for-the-badge&logoColor=cba6f7&labelColor=45475a)
+![Robotics](https://img.shields.io/badge/%20Robotics-%23cba6f7?style=for-the-badge&logoColor=cba6f7&labelColor=45475a)
+![Open Source](https://img.shields.io/badge/%20Open%20Source-%23cba6f7?style=for-the-badge&logoColor=cba6f7&labelColor=45475a)
 .
 Most of my time goes into building simulation tools, exploring control systems, and working on cool side projects.  
 
