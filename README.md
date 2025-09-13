@@ -1,16 +1,38 @@
-## Hi there 👋
+# hey there! 👋 i'm Winter Fox  
 
-<!--
-**WinterTheFox/WinterTheFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i love **mechatrics**, **robotics**, and **open source** 🚀  
+most of my time goes into building simulation tools, exploring control systems, and working on cool side projects.  
 
-Here are some ideas to get you started:
+currently pursuing my Phd in **mechatronics & control** 🤖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🔧 Technologies & Tools  
+
+- MATLAB / Simulink ⚙️  
+- Python (NumPy, SciPy, RL, OpenAI Gym) 🐍  
+- C++ for robotics & control 🚀  
+- Git & GitHub for version control 🗂️  
+
+---
+
+## 🌱 Current Focus  
+
+- Multibody simulations (MATLAB / RL hybrid control)  
+- Robotics dynamics (Paralell, flexible)  
+- Control strategies: Adaptative, Robust, PID + RL, NL-MPC  
+
+---
+
+## ☕ Fun fact  
+
+when i’m not coding, you’ll probably find me working with **3D printing**, **mechanical design**, or learning new frameworks.  
