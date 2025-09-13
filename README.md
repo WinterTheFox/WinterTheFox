@@ -5,7 +5,7 @@ Most of my time goes into building simulation tools, exploring control systems, 
 
 Currently pursuing my Phd in **mechatronics & control** 🤖  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WinterTheFox&show_icons=true&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&icon_color=79ff97" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterTheFox&layout=compact&theme=radical" height="150"/>
-</p>
+<div>
+<a href="https://github.com/WinterTheFox/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/WinterTheFox/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+</div>
