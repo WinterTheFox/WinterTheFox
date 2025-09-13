@@ -1,8 +1,8 @@
 # Hi, I'm Winter Fox
 
-I love **Mechatronics**, **Robotics**, and **Control**.
+I love **Mechatronics**, **Robotics**, & **Control**.
 
-Most of my time goes into building simulation tools, exploring control systems, and working on cool side projects.  
+Most of my time goes into building simulation tools, exploring control systems, and working on research.  
 
 Currently pursuing my Phd in **mechatronics & control** 
 
