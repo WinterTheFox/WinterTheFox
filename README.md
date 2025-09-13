@@ -1,4 +1,4 @@
-# <span style="color:cba6f7"> Hi! I'm Winter Fox  
+# <span style="color:cba6f7"> Hi! I'm Winter Fox </span>
 
 I love **mechatrics**, **robotics**, and **open source**.
 Most of my time goes into building simulation tools, exploring control systems, and working on cool side projects.  
