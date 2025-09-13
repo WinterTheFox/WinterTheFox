@@ -1,6 +1,6 @@
 # Hi, I'm Winter Fox
 
-I love **mechatrics**, **robotics**, and **open source**.
+I love # <span style="color:#cba6f7">**mechatronics**</span>, # <span style="color:#cba6f7">**robotics**</span>, and # <span style="color:#cba6f7">**open source**</span>.
 Most of my time goes into building simulation tools, exploring control systems, and working on cool side projects.  
 
 Currently pursuing my Phd in **mechatronics & control** 
