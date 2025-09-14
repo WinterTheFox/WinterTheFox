@@ -4,7 +4,7 @@ I love **Mechatronics**, **Robotics**, & **Control**.
 
 Most of my time goes into building simulation tools, exploring control systems, and working on research.  
 
-Currently pursuing my Phd in **mechatronics & control** 
+Currently pursuing my Phd in **mechatronics & control**.
 
 <div>
 <a href="https://github.com/WinterTheFox/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WinterTheFox&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
