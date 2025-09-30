@@ -13,5 +13,5 @@ Currently pursuing my Phd in **mechatronics & control**.
   
   <img src="https://github-profile-trophy.vercel.app?username=WinterTheFox&theme=aura&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinterTheFox&radius=16&theme=catppuccin_mocha&bg_color=1E2030&line=c6a0f6&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinterTheFox&radius=16&theme=catppuccin_mocha&bg_color=1E2030&border_color=45475A&title_color=7dc4e4&line=c6a0f6&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
